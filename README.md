@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ucaninek
 - 👀 I’m interested in potatoes
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ✨react.js✨
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: you dont
 
