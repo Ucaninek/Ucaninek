@@ -1,12 +1,12 @@
 ```js
 class Zemi extends Potato {
-  constructor(zemi) {
-    zemi.name = "Hakan Camcıoğlu",
-    zemi.coding = {
+  constructor() {
+    this.name = "Hakan Camcıoğlu",
+    this.coding = {
       since: 2017,
       with_technologies: ['javascript', 'c#', 'vb.net', 'python', 'node', 'react', '.net', 'jquery', 'anime.js']
     }
-    zemi.hobbies = ['💻coding', '🐶thinking about dogs', '🖇3d printing', '🥣cereal'];
+    this.hobbies = ['💻coding', '🐶thinking about dogs', '🖇3d printing', '🥣cereal'];
   }
 }
 ```
