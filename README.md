@@ -4,7 +4,7 @@ class Zemi extends Potato {
     this.name = "Hakan Camcıoğlu",
     this.coding = {
       since: 2017,
-      with_technologies: ['javascript', 'c#', 'vb.net', 'python', 'node', 'react', '.net', 'jquery', 'anime.js']
+      with_technologies: ['javascript', 'html', 'css', 'c#', 'vb.net', 'python', 'node', 'react', '.net', 'jquery', 'anime.js']
     }
     this.hobbies = ['💻coding', '🐶thinking about dogs', '🖇3d printing', '🥣cereal'];
   }
