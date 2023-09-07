@@ -1,7 +1,7 @@
 ```js
 class Zemi extends Potato {
   constructor() {
-    this.name = "Hakan Camcıoğlu",
+    this.name = "Hakan",
     this.coding = {
       since: 2017,
       with_technologies: ['javascript', 'html', 'css', 'c#', 'vb.net', 'python', 'node', 'react', '.net', 'jquery', 'anime.js']
