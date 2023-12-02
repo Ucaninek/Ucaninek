@@ -1,16 +1,5 @@
-```js
-class Zemi extends Potato {
-  constructor() {
-    this.name = "Hakan",
-    this.coding = {
-      since: 2017,
-      with_technologies: ['javascript', 'html', 'css', 'c#', 'vb.net', 'python', 'node', 'react', '.net', 'jquery', 'anime.js']
-    }
-    this.hobbies = ['💻coding', '🐶thinking about dogs', '🖇3d printing', '🥣cereal'];
-  }
-}
-```
-
+Hi! im zemi - im a fullstack developer and a high school student. i like to do random stuff on my free time.
+[![](https://skillicons.dev/icons?i=js,html,css,ae,arduino,androidstudio,bash,blender,cs,codepen,discord,bots,dotnet,firebase,github,githubactions,ai,jquery,linux,mysql,nodejs,ps,powershell,py,raspberrypi,react,tailwind,threejs,vscode,vue,vite,webpack)](https://skillicons.dev)
 [![Zemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ucaninek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
