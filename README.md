@@ -8,9 +8,12 @@
 
 im a web & desktop dev and a high school student. i like to do random stuff on my free time. 
 
-[![](https://skillicons.dev/icons?i=html,css,js,vue,vite,vscode,arduino,cs,discord,bots,dotnet,firebase,github,jquery,nodejs,py,tailwind)](https://skillicons.dev)
-<br>
+<a href="https://go-skill-icons.vercel.app/" style="width: 100%;">
+  <img style="width: 100%" src="https://go-skill-icons.vercel.app/api/icons?&theme=light&titles=true&perline=9&i=html,css,js,jquery,webpack,tailwind,vue,nuxtjs,vite,figma,vscode,nodejs,express,bun,arduino,cs,dotnet,visualstudio,firebase,github,githubcopilot,discordjs,py,godot,blender,raspberrypi,linux" />
+  </a>
+</p>
+</a>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ucaninek&theme=light&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ucaninek&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br >
 
 [![](https://visitcount.itsvg.in/api?id=Ucaninek&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
