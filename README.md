@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="height: 10vw; preserve-aspect-ratio:1" src="https://raw.githubusercontent.com/Ucaninek/Ucaninek/main/assets/minecraft_title.png" />
+  <img src="https://raw.githubusercontent.com/Ucaninek/Ucaninek/main/assets/minecraft_title.png" />
 </div>
 
 <hr />
