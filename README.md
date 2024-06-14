@@ -4,7 +4,7 @@
 
 <hr />
 
-# Hi! im zemi👋
+# ✨ Hi! I'm Zemi 
 
 im a web & desktop dev and a high school student. i like to do random stuff on my free time. 
 
