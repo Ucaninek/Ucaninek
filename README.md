@@ -4,8 +4,8 @@
 
 <hr />
 
-# ✨ Hi! I'm Zemi 
 
+# ✨ Hi! I'm Zemi  
 im a web & desktop dev and a high school student. i like to do random stuff on my free time. 
 
 <a href="https://go-skill-icons.vercel.app/" style="width: 100%;">
